@@ -18,11 +18,11 @@ STATUS="learning, building, breaking, defending"
  ┌──(jash㉿kali)-[~]
  └─$ neofetch
 
-        .-.            jash@kali
+        ---            jash@kali
        (o o)           ---------
        | O |           OS:        Kali Linux / Windows (dual workflow)
-       |   |           Domain:    SOC · DFIR · Malware Analysis
-       '~~~'           Focus:     AI Security · Red Teaming · Threat Intel
+       '~~~'           Domain:    SOC · DFIR · Malware Analysis
+                       Focus:     AI Security · Red Teaming · Threat Intel
                        Network:   Architecture & Network Security
                        Languages: Python · C · Bash
                        Shell:     bash / zsh
