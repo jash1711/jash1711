@@ -96,6 +96,19 @@ darkweb-hunting/     # OSINT, leak monitoring, threat actor research
 
 ---
 
+### `$ snake --eat contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jash1711/jash1711/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jash1711/jash1711/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/jash1711/jash1711/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
 
 ### `$ cat currently.txt`
 
