@@ -96,16 +96,6 @@ darkweb-hunting/     # OSINT, leak monitoring, threat actor research
 
 ---
 
-### `$ tail -f /var/log/activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jash1711&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
 
 ### `$ cat currently.txt`
 
